@@ -51,6 +51,7 @@ To secure a role as a SOC Analyst (L1) or VAPT Analyst and contribute to real-wo
 
 * LinkedIn: linkedin.com/in/nishith122/
 
+---
 
 ## 🚀 Portfolio Highlights
 - Hands-on SOC investigation scenarios (Brute Force, Phishing)
