@@ -1,8 +1,10 @@
 # 🔐 Cybersecurity Portfolio – Nishith Reddy
 
+💡 Passionate about cybersecurity, threat detection, and real-world attack analysis.
+
 ## 👨‍💻 About Me
 
-Aspiring SOC Analyst (L1) and VAPT Tester with hands-on experience in:
+Aspiring SOC Analyst (L1) and VAPT Tester with hands-on experience in security monitoring, incident response, and application security testing:
 
 * SIEM tools (Splunk, Wazuh)
 * Incident Response & Alert Triage
@@ -25,9 +27,9 @@ Aspiring SOC Analyst (L1) and VAPT Tester with hands-on experience in:
 ---
 
 ## 🧰 Tools & Technologies
+Splunk | Wazuh | Burp Suite | Nmap | Wireshark  
+Linux | Windows Event Logs | Networking (TCP/IP, DNS, HTTP)
 
-* Splunk | Wazuh | Burp Suite | Nmap | Wireshark
-* Linux | Windows Event Logs | Networking (TCP/IP, DNS, HTTP)
 ---
 
 ---
