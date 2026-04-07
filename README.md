@@ -12,18 +12,15 @@ Aspiring SOC Analyst (L1) and VAPT Tester with hands-on experience in:
 ---
 
 ## 🛡️ SOC Projects
-
-* 🔍 Brute Force Attack Detection using Splunk
-* 📧 Phishing Email Investigation
-* 📊 Splunk Query Development & Log Analysis
-
+- 🔍 [Brute Force Attack Detection](SOC/brute-force-analysis.md)
+- 📧 [Phishing Email Investigation](SOC/phishing-investigation.md)
+- 📊 [Splunk Queries](SOC/splunk-queries.md)
 ---
 
 ## 🧪 VAPT Projects
-
-* 💥 Cross-Site Scripting (XSS) Testing
-* 🔓 IDOR (Broken Access Control) Analysis
-* 🔐 API Security Testing (Burp Suite)
+- 💥 [XSS Testing](VAPT/xss-report.md)
+- 🔓 [IDOR Analysis](VAPT/idor-analysis.md)
+- 🔐 [API Security Testing](VAPT/api-testing.md)
 
 ---
 
@@ -31,6 +28,14 @@ Aspiring SOC Analyst (L1) and VAPT Tester with hands-on experience in:
 
 * Splunk | Wazuh | Burp Suite | Nmap | Wireshark
 * Linux | Windows Event Logs | Networking (TCP/IP, DNS, HTTP)
+---
+
+---
+
+## 🧰 Tools & Notes
+- 🌐 [Nmap Notes](Tools/nmap-notes.md)
+- 🛠️ [Burp Suite Guide](Tools/burpsuite-guide.md)
+- 📡 [Wireshark Notes](Tools/wireshark-notes.md)
 
 ---
 
@@ -43,3 +48,10 @@ To secure a role as a SOC Analyst (L1) or VAPT Analyst and contribute to real-wo
 ## 📫 Connect with Me
 
 * LinkedIn: linkedin.com/in/nishith122/
+
+
+## 🚀 Portfolio Highlights
+- Hands-on SOC investigation scenarios (Brute Force, Phishing)
+- Practical Splunk queries for real-world detection
+- Web & API security testing (XSS, IDOR)
+- Experience with tools like Burp Suite, Nmap, Wireshark
