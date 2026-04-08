@@ -49,7 +49,7 @@ To secure a role as a SOC Analyst (L1) or VAPT Analyst and contribute to real-wo
 
 ## 📫 Connect with Me
 
-* LinkedIn: linkedin.com/in/nishith122/
+* LinkedIn: [LinkedIn](https://linkedin.com/in/nishith122/)
 
 ---
 
